@@ -21,7 +21,7 @@ public class Main {
                 System.out.println("literature");
                 break;
             default:
-                System.out.println("Sabak bolboyt");
+                System.out.println("No lessons");
         }
     }
 }
