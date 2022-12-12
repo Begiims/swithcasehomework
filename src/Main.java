@@ -22,6 +22,7 @@ public class Main {
                 break;
             default:
                 System.out.println("No lessons");
+
         }
     }
 }
